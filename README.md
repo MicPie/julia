@@ -1,2 +1,2 @@
 # Julia
-Julia experiments
+Julia playground
